@@ -37,7 +37,7 @@ git clone https://dharmendra9847.github.io/coolBusiness.io.github/
 - Smooth Scrolling
 - Easy to customize
 
-If you are a **freelancer** and searching for a web hosting site then try [uHost](https://rudrakshi99.github.io/uHost/index.html).
+If you are a **freelancer** and searching for a web hosting site then try [Cool Business](https://dharmendra9847.github.io/coolBusiness.io.github/index.html).
 
 ## Show your Support
 

@@ -25,7 +25,7 @@ git clone https://dharmendra9847.github.io/coolBusiness.io.github/
 
 - HTML5
 - CSS3
-- JavaScript
+- jQuery
 - Font Awesome
 - Google Fonts
 

@@ -1,6 +1,5 @@
 # coolBusiness.io.github
 About It is a website for a fictional great first step for startup company, made using HTML5, CSS3, and jQuery.
- <p align="center"><img src ="https://github.com/dharmendra9847/coolBusiness.io.github/blob/main/images/cool-business-logo-.png" height=150px width=150px >
  <h1 align="center">Cool Business</h1>
  <p align="center">A Responsive Web Application for a fictional great first step for startup company <b>Cool Business</b> which provides web application **freelancer** services.</p>
 
